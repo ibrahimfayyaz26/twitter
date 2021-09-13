@@ -29,7 +29,7 @@ const HomeStack = () => {
           headerLeft: () => (
             <ProfilePicture
               url="https://instagram.fskt1-1.fna.fbcdn.net/v/t51.2885-19/s320x320/206124850_511067303350225_6497963097778840513_n.jpg?_nc_ht=instagram.fskt1-1.fna.fbcdn.net&_nc_ohc=AV3A_FxJFUYAX8jJlm9&edm=ABfd0MgBAAAA&ccb=7-4&oh=a1010b1d4707b0250e21c762974fde29&oe=6145BAC0&_nc_sid=7bff83"
-              size={35}
+              size={30}
             />
           ),
         }}

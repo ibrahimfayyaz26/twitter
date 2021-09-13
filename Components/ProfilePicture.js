@@ -9,8 +9,6 @@ const ProfilePicture = ({ url, size }) => {
         width: size,
         height: size,
         borderRadius: size,
-        borderColor: "black",
-        borderWidth: 0.4,
       }}
     />
   );
