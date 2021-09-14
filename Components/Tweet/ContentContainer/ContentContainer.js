@@ -3,6 +3,7 @@ import { View, Text, Image } from "react-native";
 import { styles } from "./styles";
 import { Entypo } from "@expo/vector-icons";
 import Footer from "../Footer/Footer";
+import moment from "moment";
 
 const ContentContainer = ({ tweet }) => {
   return (
@@ -11,7 +12,7 @@ const ContentContainer = ({ tweet }) => {
         <View style={styles.textContainer}>
           <Text style={styles.name}>{tweet.user.name}</Text>
           <Text style={styles.userName}>@{tweet.user.userName}</Text>
-          <Text style={styles.date}>15s</Text>
+          <Text style={styles.date}>{moment(tweet.date).fromNow()}</Text>
         </View>
         <Entypo name="chevron-down" size={22} color="grey" />
       </View>
