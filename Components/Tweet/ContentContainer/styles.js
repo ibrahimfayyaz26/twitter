@@ -13,15 +13,14 @@ export const styles = StyleSheet.create({
     flexDirection: "row",
   },
   name: {
-    marginRight: 5,
+    marginRight: 3,
     fontWeight: "bold",
   },
   userName: {
-    marginRight: 5,
+    marginRight: 3,
     color: "grey",
   },
   date: {
-    marginRight: 5,
     color: "grey",
   },
   content: {

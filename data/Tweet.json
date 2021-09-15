@@ -13,5 +13,33 @@
         "numberOfComments": 123,
         "numberOfRetweets": 13,
         "numberOfLikes": 23
+    },
+    {
+        "id": "2",
+        "user": {
+            "id": "u2",
+            "userName": "ibrahim26",
+            "name": "ibrahim fayyaz",
+            "image": "https://instagram.fskt1-1.fna.fbcdn.net/v/t51.2885-19/s320x320/206124850_511067303350225_6497963097778840513_n.jpg?_nc_ht=instagram.fskt1-1.fna.fbcdn.net&_nc_ohc=AV3A_FxJFUYAX8jJlm9&edm=ABfd0MgBAAAA&ccb=7-4&oh=a1010b1d4707b0250e21c762974fde29&oe=6145BAC0&_nc_sid=7bff83"
+        },
+        "date": "2021-09-12T12:00:00.000Z",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "numberOfComments": 13,
+        "numberOfRetweets": 3,
+        "numberOfLikes": 2
+    },
+    {
+        "id": "3",
+        "user": {
+            "id": "u3",
+            "userName": "ibrahim26",
+            "name": "ibrahim fayyaz",
+            "image": "https://instagram.fskt1-1.fna.fbcdn.net/v/t51.2885-19/s320x320/206124850_511067303350225_6497963097778840513_n.jpg?_nc_ht=instagram.fskt1-1.fna.fbcdn.net&_nc_ohc=AV3A_FxJFUYAX8jJlm9&edm=ABfd0MgBAAAA&ccb=7-4&oh=a1010b1d4707b0250e21c762974fde29&oe=6145BAC0&_nc_sid=7bff83"
+        },
+        "date": "2021-09-12T12:00:00.000Z",
+        "content": "dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "numberOfComments": 131,
+        "numberOfRetweets": 32,
+        "numberOfLikes": 23
     }
 ]
